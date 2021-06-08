@@ -1,0 +1,18 @@
+{
+  "name": "cec",
+  "version": "1.0.0",
+  "description": "Clean Eat Chicago is a dining app built using Javascript, JQuery, Materalize, the City of Chicago Data Portal API, and the Google Maps API.",
+  "main": "index.js",
+  "dependencies": {
+    "mustache": "^4.2.0",
+    "parcel": "^2.0.0-beta.3.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel serve index.html",
+    "build": "parcel build index.html"
+  },
+  "author": "",
+  "license": "ISC"
+}
